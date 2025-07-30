@@ -82,4 +82,4 @@ A empresa **Meganium** demonstra excelente desempenho internacional, com forte a
 
 ---
 
-📁 *Este relatório foi gerado automaticamente com base na análise de três planilhas consolidadas contendo dados reais de vendas internacionais da empresa Meganium.*
+📁 *Este relatório foi gerado com base na análise de três planilhas consolidadas contendo dados de vendas internacionais da empresa Meganium.*
